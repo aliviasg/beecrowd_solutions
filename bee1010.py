@@ -1,3 +1,5 @@
+#Cálculo simples
+
 cod_item1, amount_item1, value_unit_item1 = (input().split(" "))
 
 cod_item1 = int(cod_item1)

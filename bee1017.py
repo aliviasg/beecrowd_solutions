@@ -1,3 +1,5 @@
+#Gasto de combustível
+
 tempo = int(input())
 vm = int(input())
 consumo = 12

@@ -1,3 +1,5 @@
+#Salário
+
 num_W = int(input())
 num_H = int(input())
 value_H = float(input())

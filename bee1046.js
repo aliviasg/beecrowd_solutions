@@ -1,3 +1,5 @@
+//Tempo de jogo
+
 var input = require('fs').readFileSync('/dev/stdin', 'utf8');
 var lines = input.split('\n');
 

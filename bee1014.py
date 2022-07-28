@@ -1,3 +1,5 @@
+#Consumo
+
 dist = int(input())
 comb = float(input())
 

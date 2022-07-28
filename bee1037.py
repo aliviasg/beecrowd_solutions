@@ -1,3 +1,5 @@
+#Intervalo
+
 X = float(input())
 
 if X>75 and X<=100:

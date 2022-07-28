@@ -1,3 +1,5 @@
+#Conversão de tempo
+
 seconds = int(input())
 minutes = int(seconds / 60)
 seconds %= 60

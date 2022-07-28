@@ -1,3 +1,5 @@
+#O maior
+
 a, b, s = (input().split(" "))
 a = int(a)
 b = int(b)
